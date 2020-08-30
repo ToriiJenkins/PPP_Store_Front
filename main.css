@@ -196,11 +196,11 @@ header.search{
 /* footer */
 .foot{
     margin: 20px 0 10px 0;
-    border-bottom: solid 0px #4588AD;
+    border-bottom: solid 0px black;
     border-top: solid 1px black;/* #4588AD;*/
     width: 100%;
     height:60px;
-    background-color:#5E9BBD; /* #F3C2C5; /*#507DC3;   #6c8cc9*/
+    background-color:#78C6DE; /* #F3C2C5; /*#507DC3;   #6c8cc9*/
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
