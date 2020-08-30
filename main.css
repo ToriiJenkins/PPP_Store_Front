@@ -187,6 +187,9 @@ header.search{
     border-radius: 4px;
     font-size: 18px;
 }
+.featured .button:hover{
+    background-color: #F16368;
+}
 
 /* end of featured */
 
